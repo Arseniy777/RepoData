@@ -1,5 +1,4 @@
 """Script to gather market data from OKCoin Spot Price API."""
-from urllib2.request import Request, urlopen
 import json
 import time
 import numpy as np
